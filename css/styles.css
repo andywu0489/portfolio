@@ -99,10 +99,6 @@ footer{padding:50px 0; background:#1d6fa5}
     position: relative;
     overflow: hidden;
     border-radius: 50%;
-    -webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
     transform: rotate(90deg);
     margin: auto;
     margin-bottom: 15px;
